@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transformers
+datasets
+accelerate
+nltk
+spacy
+tqdm
