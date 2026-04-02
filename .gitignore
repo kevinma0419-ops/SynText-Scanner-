@@ -1,0 +1,7 @@
+results/
+results_bert/
+results_reverse/
+logs/
+logs_reverse/
+.ipynb_checkpoints/
+__pycache__/
