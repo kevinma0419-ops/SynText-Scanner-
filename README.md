@@ -45,11 +45,11 @@ This project serves as a "Perfect Negative Result." It rigorously proves that:
 
 ## 📂 Repository Structure
 ```text
-├── data/                   # Raw and processed datasets (Ignored in Git)
+├── data/                   # Raw and processed datasets
 ├── notebooks/              
 │   ├── 01_EDA_and_Cleaning.ipynb          # Data processing & TF-IDF
 │   ├── 02_XGBoost_Baseline.ipynb          # Traditional ML models
 │   ├── 03_Deep_Learning_Transformer.ipynb # BERT fine-tuning & evaluation
 │   └── 04_Zero_Shot_Perplexity.ipynb      # GPT-2 PPL distribution analysis
-├── .gitignore              # Ignoring heavy model checkpoints and data files
+├── .gitignore              # Ignoring heavy model checkpoints
 └── README.md               # Project documentation
